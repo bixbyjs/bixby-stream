@@ -1,7 +1,7 @@
 {
   "name": "bixby-stream",
   "version": "0.0.0",
-  "description": "Stream components for the Bixby framework.",
+  "description": "Stream components for Bixby.js.",
   "keywords": [
     "stream"
   ],
